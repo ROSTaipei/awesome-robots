@@ -14,17 +14,24 @@ Curated list of all kinds of robots 🤖️
 * [MultiChoiceGripper (Festo)](https://www.festo.com/group/en/cms/10221.htm)
 
 ### Entire Body
+* [AMIGO](http://roboticopenplatform.org/wiki/AMIGO)
 * [ASIMO (Honda)](http://asimo.honda.com/)
 * [Atlas (Boston Dynamics)](https://www.bostondynamics.com/atlas)
 * [iCub](http://www.icub.org/)
 * [NAO (SoftBank)](https://www.softbankrobotics.com/emea/en/robots/nao)
 * [Pepper (SoftBank)](https://www.softbankrobotics.com/emea/en/robots/pepper)
+* [PR2 (Willow Garage)](http://www.willowgarage.com/pages/pr2/overview)
+* [QTrobot](http://luxai.com)
+* [ROBOTIS OP series (ROBOTIS)](https://robots.ros.org/robotis-op/)
+* [ROMEO (SoftBank)](https://www.softbankrobotics.com/emea/en/robots/romeo)
 * [Sophia (Hanson Robotics)](http://www.hansonrobotics.com/robot/sophia/)
+* [TALOS (PAL Robotics)](http://pal-robotics.com/en/products/talos/)
+* [TIAGo (PAL Robotics)](http://tiago.pal-robotics.com)
 
 
 ## Animal-Inspired
 
-### Land
+### Ground :turtle:
 
 #### 2-Legged (or wheeled)
 * [BionicKangaroo (Festo)](https://www.festo.com/group/en/cms/10219.htm)
@@ -53,7 +60,7 @@ Curated list of all kinds of robots 🤖️
 * [OctopusGripper (Festo)](https://www.festo.com/group/en/cms/12745.htm)
 * [Bionic Tripod 3.0 (Festo)](https://www.festo.com/group/en/cms/10240.htm)
 
-### Air
+### Aerial :bird:
 
 #### Wing
 * [AirPenguins (Festo)](https://www.festo.com/group/en/cms/10242.htm)
@@ -64,7 +71,7 @@ Curated list of all kinds of robots 🤖️
 * [SmartBird (Festo)](https://www.festo.com/group/en/cms/10238.htm)
 
 
-### Water
+### Marine :fish:
 
 #### Fin and Flipper
 * [Airacuda (Festo)](https://www.festo.com/group/en/cms/10249.htm)
@@ -76,11 +83,29 @@ Curated list of all kinds of robots 🤖️
 
 ## Fiction
 
+### Ground :turtle:
+* [Bo](https://www.botsandus.com/products/bo/)
 * [Buddy](http://www.bluefrogrobotics.com/en/buddy/)
 * [Jibo](https://www.jibo.com/)
 * [PUFFER (NASA)](https://www.nasa.gov/feature/jpl/origami-inspired-robot-can-hitch-a-ride-with-a-rover)
 * [Zenbo (Asus)](https://zenbo.asus.com/)
 
-### Flying
+#### Wheeled
+* [AGVS (Robotnik)](https://www.robotnik.eu/mobile-robots/autonomous-agvs/) 
+* [RB-2 BASE (Robotnik)](https://www.robotnik.eu/mobile-robots/rb-2-base/)
+* [RB-SHERPA (Robotnik)](https://www.robotnik.eu/mobile-robots/rb-sherpa/)
+* [Robotino (Festo)](https://www.festo-didactic.com/int-en/services/robotino/)
+* [ROSbot](https://husarion.com/manuals/rosbot-manual/#rosbot-manual-overview)
+* [SUMMIT-XL HL (Robotnik)](https://www.robotnik.eu/mobile-robots/summit-xl-hl/)
+* [Tally](http://www.simberobotics.com)
+* [Texai (Willow Garage)](http://www.willowgarage.com/pages/texai/overview)
+* [TurtleBot 1 (Willow Garage)](http://www.willowgarage.com/turtlebot/specs)
+* [TurtleBot 2 (Robotnik)](https://www.robotnik.eu/mobile-robots/turtlebot-ros/)
+* [TurtleBot 3 (ROBOTIS)](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
+
+### Aerial :bird:
 * [eMotionSpheres (Festo)](https://www.festo.com/group/en/cms/10220.htm)
 * [FreeMotionHandling (Festo)](https://www.festo.com/group/en/cms/11957.htm)
+
+### Marine :fish:
+* [BlueROV](https://www.bluerobotics.com/store/rov/bluerov-r1/)
