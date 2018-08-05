@@ -1,6 +1,34 @@
 # Awesome Robots
 Curated list of all kinds of robots 🤖️
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- *generated with [DocToc](https://github.com/thlorenz/doctoc)* -->
+**Table of Contents**  
+
+  - [Human-Inspired](#human-inspired)
+    - [Arm](#arm)
+    - [Hand (Gripper)](#hand-gripper)
+    - [Entire Body](#entire-body)
+  - [Animal-Inspired](#animal-inspired)
+    - [Ground :turtle:](#ground-turtle)
+      - [2-Legged (or wheeled)](#2-legged-or-wheeled)
+      - [4-Legged (or wheeled)](#4-legged-or-wheeled)
+      - [6-Legged](#6-legged)
+      - [Arm](#arm-1)
+      - [Gripper](#gripper)
+    - [Aerial :bird:](#aerial-bird)
+      - [Wing](#wing)
+    - [Marine :fish:](#marine-fish)
+      - [Fin and Flipper](#fin-and-flipper)
+  - [Fiction](#fiction)
+    - [Ground :turtle:](#ground-turtle-1)
+      - [Wheeled](#wheeled)
+    - [Aerial :bird:](#aerial-bird-1)
+    - [Marine :fish:](#marine-fish-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Human-Inspired
 
 ### Arm
@@ -91,7 +119,7 @@ Curated list of all kinds of robots 🤖️
 * [Zenbo (Asus)](https://zenbo.asus.com/)
 
 #### Wheeled
-* [AGVS (Robotnik)](https://www.robotnik.eu/mobile-robots/autonomous-agvs/) 
+* [AGVS (Robotnik)](https://www.robotnik.eu/mobile-robots/autonomous-agvs/)
 * [RB-2 BASE (Robotnik)](https://www.robotnik.eu/mobile-robots/rb-2-base/)
 * [RB-SHERPA (Robotnik)](https://www.robotnik.eu/mobile-robots/rb-sherpa/)
 * [Robotino (Festo)](https://www.festo-didactic.com/int-en/services/robotino/)
